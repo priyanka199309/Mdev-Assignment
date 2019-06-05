@@ -1,0 +1,22 @@
+{
+  "name": "mdev-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanka199309/Mdev-Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanka199309/Mdev-Assignment/issues"
+  },
+  "homepage": "https://github.com/priyanka199309/Mdev-Assignment#readme",
+  "dependencies": {
+    "sqlite3": "^4.0.8"
+  }
+}
